@@ -1,0 +1,556 @@
+1    	► Carnegie Mellon University  closed chart	77.8	96
+1    	► Tsinghua University  closed chart	77.8	94
+3   	► Peking University  closed chart	71.3	115
+4   	► Chinese Academy of Sciences  closed chart	50.9	53
+5   	► Univ. of Illinois at Urbana-Champaign  closed chart	47.9	61
+6   	► Cornell University  closed chart	47.6	48
+7   	► Stanford University  closed chart	39.6	52
+8   	► Nanyang Technological University  closed chart	39.2	47
+8   	► Zhejiang University  closed chart	39.2	76
+10   	► Shanghai Jiao Tong University  closed chart	37.7	86
+11  	► National University of Singapore  closed chart	37.0	42
+12  	► University of Michigan  closed chart	34.1	54
+13  	► KAIST  closed chart	34.0	57
+14  	► University of Washington  closed chart	33.6	48
+15  	► Nanjing University  closed chart	33.2	63
+16  	► Massachusetts Institute of Technology  closed chart	33.0	69
+17  	► Univ. of California - San Diego  closed chart	32.8	59
+18  	► Technion  closed chart	32.7	50
+19  	► Harbin Institute of Technology  closed chart	31.9	78
+20  	► HKUST  closed chart	31.8	35
+21  	► University of Massachusetts Amherst  closed chart	31.6	38
+22  	► Chinese University of Hong Kong  closed chart	29.4	35
+23  	► MBZUAI  closed chart	28.9	25
+23  	► Univ. of California - Los Angeles  closed chart	28.9	27
+25  	► University of Maryland - College Park  closed chart	28.6	46
+26  	► University of Toronto  closed chart	28.2	59
+27  	► Fudan University  closed chart	28.1	54
+28  	► Univ. of California - Berkeley  closed chart	27.0	57
+29  	► ETH Zurich  closed chart	26.9	32
+30  	► Columbia University  closed chart	26.8	35
+31  	► Renmin University of China  closed chart	26.7	42
+32  	► Rutgers University  closed chart	26.2	31
+33  	► University of Pennsylvania  closed chart	24.2	46
+34  	► University of Amsterdam  closed chart	23.6	24
+35  	► EPFL  closed chart	23.4	40
+36  	► Georgia Institute of Technology  closed chart	23.3	49
+37  	► University of Texas at Austin  closed chart	22.7	29
+38  	► New York University  closed chart	22.2	48
+39  	► Max Planck Society  closed chart	21.6	16
+40  	► Singapore Management University  closed chart	21.5	33
+41  	► University of Edinburgh  closed chart	21.4	51
+42  	► University of Waterloo  closed chart	20.8	40
+43  	► University of Southern California  closed chart	20.6	32
+44  	► Northeastern University  closed chart	20.1	48
+45  	► Seoul National University  closed chart	18.8	31
+46  	► University of Tokyo  closed chart	18.6	28
+47  	► University of Sydney  closed chart	18.4	25
+48  	► Tel Aviv University  closed chart	17.7	26
+49  	► University of Illinois at Chicago  closed chart	17.5	25
+50  	► University of Alberta  closed chart	17.2	33
+51  	► Johns Hopkins University  closed chart	17.0	17
+51  	► University of Oxford  closed chart	17.0	33
+53  	► Univ. of California - Santa Barbara  closed chart	16.7	26
+54  	► Duke University  closed chart	16.3	32
+55  	► CUHK (SZ)  closed chart	16.2	26
+56  	► Pennsylvania State University  closed chart	16.1	34
+56  	► Purdue University  closed chart	16.1	47
+56  	► University of Pittsburgh  closed chart	16.1	18
+59  	► Princeton University  closed chart	15.5	32
+59  	► University of Melbourne  closed chart	15.5	29
+61  	► Hebrew University of Jerusalem  closed chart	15.3	29
+61  	► Imperial College London  closed chart	15.3	29
+61  	► Stony Brook University  closed chart	15.3	35
+64  	► University of Wisconsin - Madison  closed chart	14.9	39
+65  	► University of British Columbia  closed chart	14.6	32
+66  	► University of Copenhagen  closed chart	14.4	28
+67  	► University of Texas at Dallas  closed chart	14.2	28
+68  	► Arizona State University  closed chart	13.7	28
+69  	► Brown University  closed chart	13.6	23
+70  	► UESTC  closed chart	13.3	54
+71  	► University of North Carolina  closed chart	13.2	18
+72  	► BUPT  closed chart	13.1	54
+72  	► Sun Yat-sen University  closed chart	13.1	16
+72  	► University at Buffalo  closed chart	13.1	30
+75  	► Univ. of California - Irvine  closed chart	13.0	21
+76  	► Boston University  closed chart	12.9	23
+76  	► Sapienza University of Rome  closed chart	12.9	26
+78  	► Univ. of California - Santa Cruz  closed chart	12.8	29
+79  	► Beihang University  closed chart	12.7	33
+80  	► Bar-Ilan University  closed chart	12.3	19
+81  	► University College London  closed chart	12.2	26
+81  	► University of Montreal  closed chart	12.2	21
+83  	► Harvard University  closed chart	12.0	20
+83  	► USTC  closed chart	12.0	22
+85  	► Oregon State University  closed chart	11.9	20
+86  	► Rice University  closed chart	11.4	17
+86  	► Simon Fraser University  closed chart	11.4	32
+88  	► University of Rochester  closed chart	11.3	15
+89  	► National Institute of Informatics  closed chart	11.2	26
+90  	► LMU Munich  closed chart	10.8	11
+90  	► Michigan State University  closed chart	10.8	14
+90  	► Ohio State University  closed chart	10.8	25
+93  	► TU Delft  closed chart	10.7	34
+94  	► TU Darmstadt  closed chart	10.6	6
+95  	► University of Virginia  closed chart	10.5	26
+96  	► Texas A&M University  closed chart	10.2	24
+97  	► Kyoto University  closed chart	10.0	19
+98  	► POSTECH  closed chart	9.9	24
+99  	► Australian National University  closed chart	9.8	27
+100  	► George Mason University  closed chart	9.6	33
+100  	► University of Cambridge  closed chart	9.6	24
+102 	► IIT Bombay  closed chart	9.3	16
+103 	► ShanghaiTech University  closed chart	9.2	17
+104 	► Ben-Gurion University of the Negev  closed chart	9.1	18
+104 	► University of Adelaide  closed chart	9.1	19
+104 	► University of Surrey  closed chart	9.1	19
+107 	► Northwestern University  closed chart	9.0	25
+107 	► University of Chicago  closed chart	9.0	24
+109 	► Soochow University  closed chart	8.9	29
+109 	► TU Munich  closed chart	8.9	25
+109 	► University of Trento  closed chart	8.9	14
+112 	► National Taiwan University  closed chart	8.8	18
+113 	► KAUST  closed chart	8.7	14
+114 	► Universidade de Lisboa  closed chart	8.3	33
+115 	► City University of Hong Kong  closed chart	8.2	30
+116 	► TTI Chicago  closed chart	8.1	11
+117 	► Monash University  closed chart	8.0	25
+117 	► University of Colorado Boulder  closed chart	8.0	28
+117 	► University of Hong Kong  closed chart	8.0	16
+120 	► RMIT University  closed chart	7.9	30
+120 	► University of Central Florida  closed chart	7.9	21
+120 	► Xiamen University  closed chart	7.9	23
+123 	► University of Warwick  closed chart	7.7	19
+123 	► Westlake University  closed chart	7.7	4
+125 	► NWPU  closed chart	7.5	16
+125 	► SUTD  closed chart	7.5	13
+127 	► Saarland University  closed chart	7.4	15
+127 	► UNSW  closed chart	7.4	30
+127 	► University of Minnesota  closed chart	7.4	20
+130 	► Xidian University  closed chart	7.2	35
+131 	► Cardiff University  closed chart	7.1	18
+131 	► Univ. of California - Riverside  closed chart	7.1	19
+133 	► Hong Kong Baptist University  closed chart	7.0	16
+133 	► The Hong Kong Polytechnic University  closed chart	7.0	15
+135 	► IIT Delhi  closed chart	6.9	13
+135 	► University of Utah  closed chart	6.9	17
+137 	► Politecnico di Milano  closed chart	6.8	18
+137 	► Temple University  closed chart	6.8	11
+137 	► University of Notre Dame  closed chart	6.8	15
+140 	► Washington University in St. Louis  closed chart	6.7	15
+141 	► Xi'an Jiaotong University  closed chart	6.6	22
+142 	► Heidelberg University  closed chart	6.5	8
+143 	► Rochester Institute of Technology  closed chart	6.3	19
+143 	► Univ. of California - Davis  closed chart	6.3	14
+145 	► University of Liverpool  closed chart	6.2	32
+146 	► CISPA Helmholtz Center  closed chart	6.1	16
+146 	► IISc Bangalore  closed chart	6.1	16
+146 	► University of Stuttgart  closed chart	6.1	13
+146 	► University of Tübingen  closed chart	6.1	22
+150 	► Emory University  closed chart	5.8	10
+150 	► University of Macau  closed chart	5.8	14
+150 	► University of Oregon  closed chart	5.8	7
+153 	► CRIStAL  closed chart	5.7	23
+153 	► IIT Kanpur  closed chart	5.7	12
+153 	► IIT Madras  closed chart	5.7	13
+156 	► SUSTech  closed chart	5.6	20
+156 	► Yale University  closed chart	5.6	19
+158 	► Queen Mary University of London  closed chart	5.5	17
+159 	► Shandong University  closed chart	5.4	16
+160 	► Virginia Tech  closed chart	5.2	20
+161 	► Graz University of Technology  closed chart	5.1	18
+161 	► IIT Kharagpur  closed chart	5.1	12
+161 	► Macquarie University  closed chart	5.1	14
+161 	► TU Berlin  closed chart	5.1	17
+161 	► University of Zurich  closed chart	5.1	5
+161 	► Weizmann Institute of Science  closed chart	5.1	15
+161 	► Yonsei University  closed chart	5.1	14
+168 	► IIIT Hyderabad  closed chart	5.0	19
+169 	► Aalto University  closed chart	4.9	15
+169 	► McGill University  closed chart	4.9	14
+169 	► TU Wien  closed chart	4.9	18
+172 	► Czech Technical University  closed chart	4.8	16
+172 	► RWTH Aachen  closed chart	4.8	9
+172 	► Univ. of California - Merced  closed chart	4.8	6
+172 	► University of Arizona  closed chart	4.8	10
+172 	► University of Sheffield  closed chart	4.8	18
+172 	► Worcester Polytechnic Institute  closed chart	4.8	10
+178 	► IST Austria  closed chart	4.7	10
+178 	► University of Technology Sydney  closed chart	4.7	21
+180 	► KU Leuven  closed chart	4.6	9
+180 	► University of Würzburg  closed chart	4.6	5
+180 	► York University  closed chart	4.6	12
+183 	► Stevens Institute of Technology  closed chart	4.5	8
+183 	► University of Bristol  closed chart	4.5	18
+185 	► Indiana University  closed chart	4.4	22
+185 	► University of Freiburg  closed chart	4.4	8
+187 	► California Institute of Technology  closed chart	4.3	7
+187 	► Ecole Normale Superieure  closed chart	4.3	11
+187 	► King's College London  closed chart	4.3	22
+187 	► Radboud University  closed chart	4.3	18
+187 	► University of Bonn  closed chart	4.3	8
+187 	► Wuhan University  closed chart	4.3	7
+193 	► Osaka University  closed chart	4.2	13
+193 	► Shenzhen University  closed chart	4.2	32
+193 	► University of Birmingham  closed chart	4.2	18
+193 	► University of Southampton  closed chart	4.2	23
+197 	► Binghamton University  closed chart	4.1	8
+198 	► Iowa State University  closed chart	4.0	14
+198 	► University of Delaware  closed chart	4.0	13
+198 	► University of Texas at Arlington  closed chart	4.0	9
+201 	► Brandeis University  closed chart	3.9	7
+201 	► Brigham Young University  closed chart	3.9	14
+203 	► Carleton University  closed chart	3.8	6
+203 	► Hasso Plattner Institute  closed chart	3.8	6
+203 	► North Carolina State University  closed chart	3.8	22
+203 	► University of Houston  closed chart	3.8	9
+203 	► University of Tsukuba  closed chart	3.8	21
+203 	► Université Jean Monnet  closed chart	3.8	9
+209 	► Rensselaer Polytechnic Institute  closed chart	3.7	9
+209 	► University of Florida  closed chart	3.7	15
+209 	► University of Hannover  closed chart	3.7	8
+212 	► AUEB  closed chart	3.6	5
+212 	► HUST  closed chart	3.6	12
+214 	► DTU  closed chart	3.5	13
+214 	► Tulane University  closed chart	3.5	7
+214 	► Université Laval  closed chart	3.5	12
+217 	► IIT Hyderabad  closed chart	3.4	8
+217 	► IT University of Copenhagen  closed chart	3.4	11
+217 	► National Chiao Tung University  closed chart	3.4	13
+217 	► National Tsing Hua University  closed chart	3.4	13
+217 	► University of Connecticut  closed chart	3.4	10
+217 	► University of Helsinki  closed chart	3.4	14
+223 	► Beijing Jiaotong University  closed chart	3.3	11
+223 	► University of Ottawa  closed chart	3.3	9
+223 	► University of Queensland  closed chart	3.3	10
+226 	► CUNY  closed chart	3.2	15
+226 	► IIIT Delhi  closed chart	3.2	15
+226 	► Korea University  closed chart	3.2	9
+226 	► UNIST  closed chart	3.2	12
+226 	► University of New Hampshire  closed chart	3.2	5
+226 	► University of York  closed chart	3.2	8
+232 	► Bocconi University  closed chart	3.1	7
+232 	► Illinois Institute of Technology  closed chart	3.1	7
+232 	► Lehigh University  closed chart	3.1	8
+232 	► TU Kaiserslautern  closed chart	3.1	7
+236 	► Goethe University Frankfurt  closed chart	3.0	7
+236 	► HSE University  closed chart	3.0	8
+236 	► Royal Holloway University of London  closed chart	3.0	12
+236 	► TU Dresden  closed chart	3.0	7
+236 	► Tokyo Institute of Technology  closed chart	3.0	14
+236 	► UFMG  closed chart	3.0	22
+236 	► University of Glasgow  closed chart	3.0	10
+236 	► VU Amsterdam  closed chart	3.0	9
+236 	► Waseda University  closed chart	3.0	6
+245 	► Friedrich Schiller University Jena  closed chart	2.9	5
+245 	► Georgetown University  closed chart	2.9	8
+245 	► Queen's University Belfast  closed chart	2.9	7
+245 	► University of Aberdeen  closed chart	2.9	13
+245 	► University of Haifa  closed chart	2.9	8
+245 	► University of Leipzig  closed chart	2.9	6
+245 	► University of South Carolina  closed chart	2.9	7
+245 	► University of Vienna  closed chart	2.9	5
+245 	► Université Paris Dauphine  closed chart	2.9	10
+245 	► Washington State University  closed chart	2.9	9
+255 	► Aarhus University  closed chart	2.8	8
+255 	► Colorado School of Mines  closed chart	2.8	4
+255 	► Dartmouth College  closed chart	2.8	10
+255 	► Karlsruhe Institute of Technology  closed chart	2.8	8
+255 	► Syracuse University  closed chart	2.8	12
+255 	► Tufts University  closed chart	2.8	7
+255 	► University of Leeds  closed chart	2.8	10
+255 	► University of Mannheim  closed chart	2.8	5
+255 	► University of Massachusetts Lowell  closed chart	2.8	9
+255 	► University of Pisa  closed chart	2.8	10
+255 	► University of Warsaw  closed chart	2.8	14
+255 	► Wayne State University  closed chart	2.8	9
+267 	► Drexel University  closed chart	2.7	6
+267 	► Hunan University  closed chart	2.7	20
+267 	► University of Bath  closed chart	2.7	11
+267 	► University of Düsseldorf  closed chart	2.7	6
+267 	► University of Kentucky  closed chart	2.7	6
+272 	► ETS Montreal  closed chart	2.6	11
+272 	► Univ. of Maryland - Baltimore County  closed chart	2.6	8
+272 	► University of A Coruña  closed chart	2.6	8
+272 	► University of Potsdam  closed chart	2.6	5
+272 	► University of St Andrews  closed chart	2.6	6
+272 	► Vanderbilt University  closed chart	2.6	14
+272 	► West Virginia University  closed chart	2.6	6
+279 	► IIT Gandhinagar  closed chart	2.5	5
+279 	► Lancaster University  closed chart	2.5	9
+279 	► NTUA  closed chart	2.5	8
+279 	► Qatar Computing Research Institute  closed chart	2.5	11
+279 	► University College Dublin  closed chart	2.5	15
+279 	► University of Essex  closed chart	2.5	12
+279 	► University of Hamburg  closed chart	2.5	5
+286 	► Aalborg University  closed chart	2.4	14
+286 	► Heriot-Watt University  closed chart	2.4	13
+286 	► NJIT  closed chart	2.4	12
+286 	► Open University UK  closed chart	2.4	5
+286 	► University of Guelph  closed chart	2.4	5
+286 	► University of Padova  closed chart	2.4	8
+286 	► University of Sussex  closed chart	2.4	4
+293 	► Auburn University  closed chart	2.3	5
+293 	► Case Western Reserve University  closed chart	2.3	5
+293 	► Concordia University  closed chart	2.3	5
+293 	► Hanyang University  closed chart	2.3	5
+293 	► IIT Jodhpur  closed chart	2.3	6
+293 	► KTH Royal Institute of Technology  closed chart	2.3	8
+293 	► Tampere University  closed chart	2.3	5
+293 	► Universidad de Chile  closed chart	2.3	6
+293 	► University of Crete  closed chart	2.3	5
+293 	► University of Göttingen  closed chart	2.3	8
+303 	► Birkbeck University of London  closed chart	2.2	8
+303 	► Boston College  closed chart	2.2	4
+303 	► EURECOM  closed chart	2.2	9
+303 	► JKU Linz  closed chart	2.2	5
+303 	► University of Nottingham  closed chart	2.2	8
+303 	► University of Western Australia  closed chart	2.2	6
+309 	► Florida International University  closed chart	2.1	6
+309 	► Loughborough University  closed chart	2.1	6
+309 	► Trinity College Dublin  closed chart	2.1	7
+309 	► UNC - Charlotte  closed chart	2.1	12
+309 	► University of Arkansas  closed chart	2.1	3
+309 	► University of Georgia  closed chart	2.1	6
+309 	► University of Manchester  closed chart	2.1	10
+309 	► University of North Texas  closed chart	2.1	7
+317 	► Ariel University  closed chart	2.0	6
+317 	► Chalmers/GU  closed chart	2.0	7
+317 	► Clemson University  closed chart	2.0	9
+317 	► NTNU  closed chart	2.0	9
+317 	► Tongji University  closed chart	2.0	8
+317 	► University of Auckland  closed chart	2.0	10
+317 	► University of Klagenfurt  closed chart	2.0	5
+317 	► University of Konstanz  closed chart	2.0	5
+317 	► University of Szeged  closed chart	2.0	4
+326 	► Bauhaus University Weimar  closed chart	1.9	1
+326 	► College of William and Mary  closed chart	1.9	5
+326 	► Durham University  closed chart	1.9	8
+326 	► IIT Patna  closed chart	1.9	2
+326 	► ISI Kolkata  closed chart	1.9	6
+326 	► Queen’s University  closed chart	1.9	3
+326 	► UCCS  closed chart	1.9	5
+326 	► University of Athens  closed chart	1.9	6
+326 	► University of Bern  closed chart	1.9	1
+326 	► University of Louisiana - Lafayette  closed chart	1.9	6
+326 	► University of Memphis  closed chart	1.9	5
+326 	► University of Nebraska  closed chart	1.9	5
+326 	► University of Strathclyde  closed chart	1.9	8
+326 	► University of Tennessee  closed chart	1.9	8
+326 	► University of Ulm  closed chart	1.9	6
+326 	► Utrecht University  closed chart	1.9	9
+326 	► Western University  closed chart	1.9	5
+343 	► CWI  closed chart	1.8	5
+343 	► Middle East Technical University  closed chart	1.8	6
+343 	► New Mexico State University  closed chart	1.8	5
+343 	► Ruhr-University Bochum  closed chart	1.8	6
+343 	► Sharif University of Technology  closed chart	1.8	4
+343 	► TU Dortmund  closed chart	1.8	5
+343 	► UFRGS  closed chart	1.8	8
+343 	► USP  closed chart	1.8	6
+343 	► University of Exeter  closed chart	1.8	6
+343 	► University of Innsbruck  closed chart	1.8	3
+343 	► University of Lübeck  closed chart	1.8	7
+343 	► University of Manitoba  closed chart	1.8	4
+343 	► Uppsala University  closed chart	1.8	9
+356 	► Cyprus University of Technology  closed chart	1.7	1
+356 	► Florida State University  closed chart	1.7	6
+356 	► Portland State University  closed chart	1.7	4
+356 	► SUFE  closed chart	1.7	5
+356 	► Universidad Nacional de Córdoba  closed chart	1.7	6
+356 	► University of Groningen  closed chart	1.7	5
+356 	► University of Ioannina  closed chart	1.7	6
+356 	► University of Mainz  closed chart	1.7	3
+364 	► Bielefeld University  closed chart	1.6	4
+364 	► Boğaziçi University  closed chart	1.6	4
+364 	► Charles University  closed chart	1.6	6
+364 	► Colorado State University  closed chart	1.6	4
+364 	► Old Dominion University  closed chart	1.6	5
+364 	► Polytechnique Montreal  closed chart	1.6	1
+364 	► Tilburg University  closed chart	1.6	3
+364 	► University of Bergen  closed chart	1.6	5
+364 	► University of Erlangen–Nuremberg  closed chart	1.6	6
+364 	► University of Iowa  closed chart	1.6	4
+364 	► University of Salzburg  closed chart	1.6	3
+364 	► University of Siegen  closed chart	1.6	3
+364 	► University of Wroclaw  closed chart	1.6	9
+377 	► Bilkent University  closed chart	1.5	4
+377 	► Dalhousie University  closed chart	1.5	3
+377 	► DePaul University  closed chart	1.5	5
+377 	► Freie Universitaet Berlin  closed chart	1.5	5
+377 	► George Washington University  closed chart	1.5	4
+377 	► Georgia State University  closed chart	1.5	3
+377 	► Humboldt University of Berlin  closed chart	1.5	6
+377 	► Kansas State University  closed chart	1.5	4
+377 	► National Cheng Kung University  closed chart	1.5	5
+377 	► Queensland University of Technology  closed chart	1.5	4
+377 	► TU Eindhoven  closed chart	1.5	7
+377 	► Toronto Metropolitan University  closed chart	1.5	2
+377 	► USP-ICMC  closed chart	1.5	7
+377 	► Universidad de los Andes  closed chart	1.5	1
+377 	► Universidade NOVA de Lisboa  closed chart	1.5	6
+377 	► University of Halle-Wittenberg  closed chart	1.5	2
+377 	► University of Missouri  closed chart	1.5	5
+377 	► University of Passau  closed chart	1.5	3
+377 	► University of Regina  closed chart	1.5	6
+377 	► University of Salerno  closed chart	1.5	5
+377 	► University of Tartu  closed chart	1.5	4
+377 	► University of Victoria  closed chart	1.5	5
+377 	► Université du Québec à Montréal  closed chart	1.5	8
+377 	► Victoria University of Wellington  closed chart	1.5	6
+401 	► Boise State University  closed chart	1.4	3
+401 	► Cleveland State University  closed chart	1.4	3
+401 	► Ecole Normale Superieure de Rennes  closed chart	1.4	1
+401 	► Hacettepe University  closed chart	1.4	4
+401 	► IIIT Bangalore  closed chart	1.4	2
+401 	► IUPUI  closed chart	1.4	4
+401 	► Istanbul Technical University  closed chart	1.4	5
+401 	► Koç University  closed chart	1.4	4
+401 	► Maastricht University  closed chart	1.4	6
+401 	► Masdar Institute  closed chart	1.4	2
+401 	► McMaster University  closed chart	1.4	3
+401 	► Michigan Technological University  closed chart	1.4	5
+401 	► OHSU  closed chart	1.4	4
+401 	► Paderborn University  closed chart	1.4	2
+401 	► Qatar University  closed chart	1.4	4
+401 	► University of Kansas  closed chart	1.4	4
+401 	► University of Luxembourg  closed chart	1.4	5
+401 	► University of Marburg  closed chart	1.4	2
+401 	► University of Nebraska - Omaha  closed chart	1.4	3
+401 	► University of Texas - El Paso  closed chart	1.4	4
+401 	► Université de Sherbrooke  closed chart	1.4	3
+401 	► VISTEC  closed chart	1.4	2
+401 	► Virginia Commonwealth University  closed chart	1.4	4
+424 	► City University of London  closed chart	1.3	4
+424 	► Ecole Normale Superieure de Cachan  closed chart	1.3	4
+424 	► Ecole Normale Superieure de Lyon  closed chart	1.3	3
+424 	► IIT Ropar  closed chart	1.3	2
+424 	► IMDEA Networks Institute  closed chart	1.3	7
+424 	► IPI PAN  closed chart	1.3	2
+424 	► Keio University  closed chart	1.3	4
+424 	► Kent State University  closed chart	1.3	1
+424 	► Kyungpook National University  closed chart	1.3	2
+424 	► LUMS  closed chart	1.3	6
+424 	► Masaryk University  closed chart	1.3	4
+424 	► Massey University  closed chart	1.3	3
+424 	► Middlesex University  closed chart	1.3	4
+424 	► Mississippi State University  closed chart	1.3	2
+424 	► NYU Shanghai  closed chart	1.3	2
+424 	► PUC-RIO  closed chart	1.3	2
+424 	► PUC-RS  closed chart	1.3	2
+424 	► Sabancı University  closed chart	1.3	2
+424 	► Tata Inst. of Fundamental Research  closed chart	1.3	3
+424 	► Texas Tech University  closed chart	1.3	3
+424 	► The University of Alabama  closed chart	1.3	1
+424 	► University of Bremen  closed chart	1.3	4
+424 	► University of Dundee  closed chart	1.3	3
+424 	► University of Hildesheim  closed chart	1.3	1
+424 	► University of Kiel  closed chart	1.3	2
+424 	► University of Koblenz-Landau  closed chart	1.3	1
+424 	► University of Massachusetts Boston  closed chart	1.3	3
+424 	► University of Nevada  closed chart	1.3	3
+424 	► University of New Brunswick  closed chart	1.3	2
+424 	► University of Newcastle  closed chart	1.3	1
+424 	► University of South Florida  closed chart	1.3	3
+424 	► University of Southern Mississippi  closed chart	1.3	1
+424 	► Università della Svizzera italiana  closed chart	1.3	4
+424 	► Université libre de Bruxelles  closed chart	1.3	3
+424 	► Wichita State University  closed chart	1.3	1
+459 	► Aberystwyth University  closed chart	1.2	3
+459 	► Augusta University  closed chart	1.2	2
+459 	► Brno University of Technology  closed chart	1.2	1
+459 	► East China Normal University  closed chart	1.2	3
+459 	► IIT Guwahati  closed chart	1.2	3
+459 	► IMSc  closed chart	1.2	2
+459 	► IPM  closed chart	1.2	1
+459 	► Kyung Hee University  closed chart	1.2	2
+459 	► Missouri S&T  closed chart	1.2	2
+459 	► Nova Southeastern University  closed chart	1.2	1
+459 	► Ontario Tech University  closed chart	1.2	2
+459 	► Polytechnic University of Catalonia  closed chart	1.2	2
+459 	► Texas State University  closed chart	1.2	3
+459 	► Towson University  closed chart	1.2	1
+459 	► UNC - Greensboro  closed chart	1.2	1
+459 	► UNICAMP  closed chart	1.2	3
+459 	► University at Albany - SUNY  closed chart	1.2	2
+459 	► University of Alabama - Birmingham  closed chart	1.2	2
+459 	► University of Bamberg  closed chart	1.2	2
+459 	► University of Calgary  closed chart	1.2	2
+459 	► University of Cape Town  closed chart	1.2	1
+459 	► University of Cologne  closed chart	1.2	1
+459 	► University of Duisburg-Essen  closed chart	1.2	4
+459 	► University of Magdeburg  closed chart	1.2	4
+459 	► University of Malaya  closed chart	1.2	1
+459 	► University of Michigan-Dearborn  closed chart	1.2	3
+459 	► University of Oldenburg  closed chart	1.2	1
+459 	► University of Texas at San Antonio  closed chart	1.2	4
+459 	► University of Tulsa  closed chart	1.2	3
+459 	► University of Waikato  closed chart	1.2	4
+459 	► Özyeğin University  closed chart	1.2	4
+490 	► American University of Beirut  closed chart	1.1	2
+490 	► BUET  closed chart	1.1	3
+490 	► Brock University  closed chart	1.1	1
+490 	► Brunel University London  closed chart	1.1	1
+490 	► Bundeswehr University Munich  closed chart	1.1	1
+490 	► CMI  closed chart	1.1	2
+490 	► De La Salle University  closed chart	1.1	2
+490 	► Florida Atlantic University  closed chart	1.1	1
+490 	► Hamburg University of Technology  closed chart	1.1	1
+490 	► IIT Mandi  closed chart	1.1	1
+490 	► IIT Roorkee  closed chart	1.1	2
+490 	► IMDEA Software Institute  closed chart	1.1	3
+490 	► IUST  closed chart	1.1	1
+490 	► Izmir Institute of Technology  closed chart	1.1	1
+490 	► KMUTNB  closed chart	1.1	1
+490 	► Louisiana State University  closed chart	1.1	3
+490 	► Memorial University of Newfoundland  closed chart	1.1	1
+490 	► Mälardalen University  closed chart	1.1	1
+490 	► Northern Arizona University  closed chart	1.1	2
+490 	► Ohio University  closed chart	1.1	1
+490 	► Oklahoma State University  closed chart	1.1	1
+490 	► Stellenbosch University  closed chart	1.1	1
+490 	► TOBB ETÜ  closed chart	1.1	1
+490 	► TU Braunschweig  closed chart	1.1	1
+490 	► TU Chemnitz  closed chart	1.1	1
+490 	► TU Ilmenau  closed chart	1.1	3
+490 	► The Catholic University of Korea  closed chart	1.1	1
+490 	► Universidad Rey Juan Carlos  closed chart	1.1	1
+490 	► Universidad de Zaragoza  closed chart	1.1	3
+490 	► Universidade de Brasília  closed chart	1.1	1
+490 	► University of Augsburg  closed chart	1.1	1
+490 	► University of Bayreuth  closed chart	1.1	1
+490 	► University of Buenos Aires  closed chart	1.1	2
+490 	► University of Canterbury  closed chart	1.1	1
+490 	► University of Cincinnati  closed chart	1.1	2
+490 	► University of Hawaii at Manoa  closed chart	1.1	1
+490 	► University of Kassel  closed chart	1.1	2
+490 	► University of Kent  closed chart	1.1	2
+490 	► University of Malta  closed chart	1.1	1
+490 	► University of Miami  closed chart	1.1	1
+490 	► University of Missouri - Kansas City  closed chart	1.1	2
+490 	► University of Murcia  closed chart	1.1	2
+490 	► University of Münster  closed chart	1.1	2
+490 	► University of New Mexico  closed chart	1.1	2
+490 	► University of Oklahoma  closed chart	1.1	2
+490 	► University of Osnabrück  closed chart	1.1	1
+490 	► University of Otago  closed chart	1.1	2
+490 	► University of Piraeus  closed chart	1.1	1
+490 	► University of Trier  closed chart	1.1	1
+490 	► University of Vermont  closed chart	1.1	3
+490 	► University of Wuppertal  closed chart	1.1	1
+490 	► Utah State University  closed chart	1.1	1
+542 	► Chulalongkorn University  closed chart	1.0	1
+542 	► IIT Goa  closed chart	1.0	1
+542 	► IIT Indore  closed chart	1.0	1
+542 	► JUST  closed chart	1.0	1
+542 	► Missouri University of Technology  closed chart	1.0	1
+542 	► Montana State University  closed chart	1.0	1
+542 	► New Mexico Tech  closed chart	1.0	1
+542 	► UFPE  closed chart	1.0	1
+542 	► UFPR  closed chart	1.0	1
+542 	► University of Colorado - Denver  closed chart	1.0	1
+542 	► University of Denver  closed chart	1.0	1
+542 	► University of New Orleans  closed chart	1.0	1
+542 	► University of Rostock  closed chart	1.0	1
+542 	► University of Saskatchewan  closed chart	1.0	1
+542 	► Western Michigan University  closed chart	1.0	1
